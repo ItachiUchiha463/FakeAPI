@@ -5,42 +5,42 @@
     "name": "Набір аромасвічок",
     "category": "Аромати",
     "price": 450,
-    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=300&q=80"
+    "image": "https://images.unsplash.com/photo-1596435707100-2d744f9e3b4d?auto=format&fit=crop&w=300&q=80"
   },
   {
     "id": 2,
     "name": "В'язаний плед",
     "category": "Декор",
     "price": 1200,
-    "image": "https://images.unsplash.com/photo-1585255318115-97cceeb441f6?auto=format&fit=crop&w=300&q=80"
+    "image": "https://images.unsplash.com/photo-1574633215220-77a83709f30b?auto=format&fit=crop&w=300&q=80"
   },
   {
     "id": 3,
     "name": "Подарунковий шоколад",
     "category": "Солодощі",
     "price": 350,
-    "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=300&q=80"
+    "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?auto=format&fit=crop&w=300&q=80"
   },
   {
     "id": 4,
     "name": "Керамічна ваза",
     "category": "Декор",
     "price": 600,
-    "image": "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&w=300&q=80"
+    "image": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&w=300&q=80"
   },
   {
     "id": 5,
     "name": "Дифузор з паличками",
     "category": "Аромати",
     "price": 550,
-    "image": "https://images.unsplash.com/photo-1608528577891-eb055944f2e7?auto=format&fit=crop&w=300&q=80"
+    "image": "https://images.unsplash.com/photo-1547793330-d889d0ca383d?auto=format&fit=crop&w=300&q=80"
   },
   {
     "id": 6,
     "name": "Набір макарунів",
     "category": "Солодощі",
     "price": 400,
-    "image": "https://images.unsplash.com/photo-1569864358642-9d1684040f43?auto=format&fit=crop&w=300&q=80"
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=300&q=80"
   }
 ]
 }
